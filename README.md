@@ -1,8 +1,7 @@
 # Between-measure uncertainty
 
 This package reproduces the numerical examples in *Quantifying between-measure
-uncertainty in Wasserstein space*. It accompanies the manuscript prepared for
-the Journal of Multivariate Analysis.
+uncertainty in Wasserstein space*. 
 
 The examples study metric variance among probability measures. They also
 demonstrate balanced incomplete-pair inference, behavior near degeneracy, and
